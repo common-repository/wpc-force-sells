@@ -1,0 +1,640 @@
+# Copyright (C) 2024 WPClever
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Force Sells for WooCommerce 6.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-force-sells\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-31T03:13:35+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpc-force-sells\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Force Sells for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create a deal that combines various related products and put them for sale altogether."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: wpc-force-sells.php:236
+#: wpc-force-sells.php:247
+msgid "WPC Force Sells"
+msgstr ""
+
+#: wpc-force-sells.php:236
+#: wpc-force-sells.php:1457
+msgid "Force Sells"
+msgstr ""
+
+#: wpc-force-sells.php:247
+msgid "Premium"
+msgstr ""
+
+#. translators: stars
+#: wpc-force-sells.php:250
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: wpc-force-sells.php:252
+msgid "Reviews"
+msgstr ""
+
+#: wpc-force-sells.php:253
+msgid "Changelog"
+msgstr ""
+
+#: wpc-force-sells.php:254
+msgid "Discussion"
+msgstr ""
+
+#: wpc-force-sells.php:259
+msgid "Settings updated."
+msgstr ""
+
+#: wpc-force-sells.php:265
+msgid "How to use?"
+msgstr ""
+
+#: wpc-force-sells.php:268
+#: wpc-force-sells.php:763
+msgid "Settings"
+msgstr ""
+
+#: wpc-force-sells.php:271
+msgid "Localization"
+msgstr ""
+
+#: wpc-force-sells.php:274
+#: wpc-force-sells.php:764
+msgid "Premium Version"
+msgstr ""
+
+#: wpc-force-sells.php:277
+msgid "Essential Kit"
+msgstr ""
+
+#: wpc-force-sells.php:285
+msgid "When adding/editing the product you can choose Force Sells tab then add some products with the new price and quantity."
+msgstr ""
+
+#: wpc-force-sells.php:308
+#: wpc-force-sells.php:479
+msgid "General"
+msgstr ""
+
+#: wpc-force-sells.php:312
+msgid "Position"
+msgstr ""
+
+#: wpc-force-sells.php:315
+msgid "Above add to cart button"
+msgstr ""
+
+#: wpc-force-sells.php:316
+msgid "Under add to cart button"
+msgstr ""
+
+#: wpc-force-sells.php:318
+msgid "Choose the position to show the products list."
+msgstr ""
+
+#: wpc-force-sells.php:322
+#: wpc-force-sells.php:1566
+msgid "Layout"
+msgstr ""
+
+#: wpc-force-sells.php:325
+#: wpc-force-sells.php:1571
+msgid "List"
+msgstr ""
+
+#: wpc-force-sells.php:326
+#: wpc-force-sells.php:1572
+msgid "Grid - 2 columns"
+msgstr ""
+
+#: wpc-force-sells.php:327
+#: wpc-force-sells.php:1573
+msgid "Grid - 3 columns"
+msgstr ""
+
+#: wpc-force-sells.php:328
+#: wpc-force-sells.php:1574
+msgid "Grid - 4 columns"
+msgstr ""
+
+#: wpc-force-sells.php:333
+msgid "Show thumbnail"
+msgstr ""
+
+#: wpc-force-sells.php:336
+#: wpc-force-sells.php:355
+#: wpc-force-sells.php:384
+#: wpc-force-sells.php:395
+#: wpc-force-sells.php:413
+#: wpc-force-sells.php:433
+#: wpc-force-sells.php:454
+#: wpc-force-sells.php:642
+#: wpc-force-sells.php:651
+#: wpc-force-sells.php:661
+#: wpc-force-sells.php:671
+#: wpc-force-sells.php:681
+msgid "Yes"
+msgstr ""
+
+#: wpc-force-sells.php:337
+#: wpc-force-sells.php:347
+#: wpc-force-sells.php:356
+#: wpc-force-sells.php:367
+#: wpc-force-sells.php:385
+#: wpc-force-sells.php:397
+#: wpc-force-sells.php:414
+#: wpc-force-sells.php:434
+#: wpc-force-sells.php:446
+#: wpc-force-sells.php:457
+#: wpc-force-sells.php:643
+#: wpc-force-sells.php:652
+#: wpc-force-sells.php:662
+#: wpc-force-sells.php:672
+#: wpc-force-sells.php:682
+msgid "No"
+msgstr ""
+
+#: wpc-force-sells.php:342
+msgid "Show price"
+msgstr ""
+
+#: wpc-force-sells.php:345
+msgid "Price"
+msgstr ""
+
+#: wpc-force-sells.php:346
+msgid "Total"
+msgstr ""
+
+#: wpc-force-sells.php:352
+msgid "Show short description"
+msgstr ""
+
+#: wpc-force-sells.php:361
+msgid "Link to individual product"
+msgstr ""
+
+#: wpc-force-sells.php:364
+msgid "Yes, open in the same tab"
+msgstr ""
+
+#: wpc-force-sells.php:365
+msgid "Yes, open in the new tab"
+msgstr ""
+
+#: wpc-force-sells.php:366
+msgid "Yes, open quick view popup"
+msgstr ""
+
+#: wpc-force-sells.php:372
+msgid "Variations selector"
+msgstr ""
+
+#: wpc-force-sells.php:375
+msgid "Default"
+msgstr ""
+
+#: wpc-force-sells.php:376
+msgid "Use WPC Variations Radio Buttons"
+msgstr ""
+
+#: wpc-force-sells.php:381
+msgid "Change image"
+msgstr ""
+
+#: wpc-force-sells.php:387
+msgid "Change the main product image when choosing the variation of variable products."
+msgstr ""
+
+#: wpc-force-sells.php:391
+msgid "Change price"
+msgstr ""
+
+#: wpc-force-sells.php:396
+msgid "Yes, custom selector"
+msgstr ""
+
+#: wpc-force-sells.php:401
+msgid "Change the main product price when choosing the variation of variable products. It uses JavaScript to change product price so it is very dependent on theme’s HTML. If it cannot find and update the product price, please contact us and we can help you adjust the JS file."
+msgstr ""
+
+#: wpc-force-sells.php:406
+#: wpc-force-sells.php:547
+msgid "Cart & Checkout"
+msgstr ""
+
+#: wpc-force-sells.php:410
+msgid "Exclude unpurchasable"
+msgstr ""
+
+#: wpc-force-sells.php:416
+msgid "Make the product still purchasable when one of the linked products is un-purchasable. These linked products are excluded from the orders."
+msgstr ""
+
+#: wpc-force-sells.php:420
+msgid "Cart contents count"
+msgstr ""
+
+#: wpc-force-sells.php:423
+msgid "Main products only"
+msgstr ""
+
+#: wpc-force-sells.php:424
+msgid "Linked products only"
+msgstr ""
+
+#: wpc-force-sells.php:425
+msgid "Both main and linked products"
+msgstr ""
+
+#: wpc-force-sells.php:430
+msgid "Hide linked products on mini-cart"
+msgstr ""
+
+#: wpc-force-sells.php:436
+msgid "Hide linked products, just show the main product on mini-cart."
+msgstr ""
+
+#: wpc-force-sells.php:440
+msgid "Hide linked products on cart & checkout page"
+msgstr ""
+
+#: wpc-force-sells.php:443
+msgid "Yes, just show the main product"
+msgstr ""
+
+#: wpc-force-sells.php:444
+#: wpc-force-sells.php:455
+msgid "Yes, but shortly list linked sub-product names under the main product in one line"
+msgstr ""
+
+#: wpc-force-sells.php:445
+#: wpc-force-sells.php:456
+msgid "Yes, but list linked sub-product names under the main product in separate lines"
+msgstr ""
+
+#: wpc-force-sells.php:451
+msgid "Hide linked products on order details"
+msgstr ""
+
+#: wpc-force-sells.php:459
+msgid "Hide linked products, just show the main product on order details (order confirmation or emails)."
+msgstr ""
+
+#: wpc-force-sells.php:464
+#: wpc-force-sells.php:1502
+msgid "Search"
+msgstr ""
+
+#: wpc-force-sells.php:481
+msgid "Leave blank to use the default text and its equivalent translation in multiple languages."
+msgstr ""
+
+#: wpc-force-sells.php:485
+msgid "Additional price"
+msgstr ""
+
+#: wpc-force-sells.php:488
+#: wpc-force-sells.php:730
+msgid "Additional price:"
+msgstr ""
+
+#: wpc-force-sells.php:493
+msgid "Total price"
+msgstr ""
+
+#: wpc-force-sells.php:496
+#: wpc-force-sells.php:731
+msgid "Total:"
+msgstr ""
+
+#: wpc-force-sells.php:501
+msgid "Linked"
+msgstr ""
+
+#. translators: product name
+#: wpc-force-sells.php:505
+#: wpc-force-sells.php:876
+#: wpc-force-sells.php:1140
+msgid "(linked to %s)"
+msgstr ""
+
+#. translators: product name
+#: wpc-force-sells.php:507
+msgid "The text behind force sells products. Use \"%s\" for the main product name."
+msgstr ""
+
+#: wpc-force-sells.php:511
+msgid "Choose an attribute"
+msgstr ""
+
+#. translators: attribute name
+#: wpc-force-sells.php:515
+msgid "Choose %s"
+msgstr ""
+
+#. translators: attribute name
+#: wpc-force-sells.php:517
+msgid "Use %s to show the attribute name."
+msgstr ""
+
+#: wpc-force-sells.php:521
+#: wpc-force-sells.php:524
+msgid "Clear"
+msgstr ""
+
+#: wpc-force-sells.php:529
+msgid "Default above text"
+msgstr ""
+
+#: wpc-force-sells.php:534
+msgid "The default text above products list. You can overwrite it in product settings."
+msgstr ""
+
+#: wpc-force-sells.php:538
+msgid "Default under text"
+msgstr ""
+
+#: wpc-force-sells.php:543
+msgid "The default text under products list. You can overwrite it in product settings."
+msgstr ""
+
+#: wpc-force-sells.php:551
+#: wpc-force-sells.php:554
+#: wpc-force-sells.php:1250
+#: wpc-force-sells.php:1266
+msgid "Linked products"
+msgstr ""
+
+#. translators: product name
+#: wpc-force-sells.php:560
+#: wpc-force-sells.php:564
+#: wpc-force-sells.php:1135
+#: wpc-force-sells.php:1225
+msgid "Linked products: %s"
+msgstr ""
+
+#: wpc-force-sells.php:570
+msgid "Alert"
+msgstr ""
+
+#: wpc-force-sells.php:574
+msgid "Require selection"
+msgstr ""
+
+#: wpc-force-sells.php:577
+#: wpc-force-sells.php:732
+msgid "Please select a purchasable variation for [name] before adding this product to the cart."
+msgstr ""
+
+#: wpc-force-sells.php:631
+msgid "Search limit"
+msgstr ""
+
+#: wpc-force-sells.php:639
+msgid "Search by SKU"
+msgstr ""
+
+#: wpc-force-sells.php:648
+msgid "Search by ID"
+msgstr ""
+
+#: wpc-force-sells.php:654
+msgid "Search by ID when entering the numeric only."
+msgstr ""
+
+#: wpc-force-sells.php:658
+msgid "Search exact"
+msgstr ""
+
+#: wpc-force-sells.php:664
+msgid "Match whole product title or content?"
+msgstr ""
+
+#: wpc-force-sells.php:668
+msgid "Search sentence"
+msgstr ""
+
+#: wpc-force-sells.php:674
+msgid "Do a phrase search?"
+msgstr ""
+
+#: wpc-force-sells.php:678
+msgid "Accept same products"
+msgstr ""
+
+#: wpc-force-sells.php:684
+msgid "If yes, a product can be added many times."
+msgstr ""
+
+#: wpc-force-sells.php:688
+msgid "Product types"
+msgstr ""
+
+#: wpc-force-sells.php:692
+msgid "All"
+msgstr ""
+
+#: wpc-force-sells.php:699
+msgid " → Variation"
+msgstr ""
+
+#: wpc-force-sells.php:780
+msgid "Community support"
+msgstr ""
+
+#. translators: product name
+#: wpc-force-sells.php:913
+#: wpc-force-sells.php:923
+#: wpc-force-sells.php:930
+#: wpc-force-sells.php:939
+#: wpc-force-sells.php:945
+#: wpc-force-sells.php:953
+#: wpc-force-sells.php:964
+msgid "You cannot add this product to the cart."
+msgstr ""
+
+#: wpc-force-sells.php:922
+msgid "One of the linked products is unavailable."
+msgstr ""
+
+#. translators: product name
+#: wpc-force-sells.php:929
+#: wpc-force-sells.php:952
+msgid "\"%s\" is un-purchasable."
+msgstr ""
+
+#: wpc-force-sells.php:963
+msgid "Missing a linked product."
+msgstr ""
+
+#. translators: count
+#: wpc-force-sells.php:1288
+msgid "Force sells (%d)"
+msgstr ""
+
+#. translators: keyword
+#: wpc-force-sells.php:1402
+msgid "No results found for \"%s\""
+msgstr ""
+
+#: wpc-force-sells.php:1426
+msgid "Add"
+msgstr ""
+
+#: wpc-force-sells.php:1428
+#: wpc-force-sells.php:1452
+msgid "Remove"
+msgstr ""
+
+#: wpc-force-sells.php:1441
+msgid "Set a new price using a number (eg. \"49\") or percentage (eg. \"90%\" of original price)"
+msgstr ""
+
+#: wpc-force-sells.php:1441
+msgid "Quantity"
+msgstr ""
+
+#: wpc-force-sells.php:1480
+msgid "Product wasn't returned."
+msgstr ""
+
+#: wpc-force-sells.php:1487
+msgid "Search settings"
+msgstr ""
+
+#: wpc-force-sells.php:1494
+msgid "Update Options"
+msgstr ""
+
+#: wpc-force-sells.php:1502
+msgid "settings"
+msgstr ""
+
+#: wpc-force-sells.php:1506
+msgid "searching..."
+msgstr ""
+
+#: wpc-force-sells.php:1507
+msgid "Type any keyword to search"
+msgstr ""
+
+#: wpc-force-sells.php:1513
+msgid "Selected"
+msgstr ""
+
+#: wpc-force-sells.php:1547
+msgid "+ Add heading/paragraph"
+msgstr ""
+
+#: wpc-force-sells.php:1552
+msgid "Sync quantity"
+msgstr ""
+
+#: wpc-force-sells.php:1555
+msgid "By default, the quantity of Force Sells items is synced with that of the main product. Uncheck to stick to the default quantities."
+msgstr ""
+
+#: wpc-force-sells.php:1559
+msgid "Add separately"
+msgstr ""
+
+#: wpc-force-sells.php:1562
+msgid "If enabled, the force sell products will be added as separate items and stay unaffected from the main product, their prices will change back to the original."
+msgstr ""
+
+#: wpc-force-sells.php:1570
+msgid "Unset (default setting)"
+msgstr ""
+
+#: wpc-force-sells.php:1579
+msgid "Above text"
+msgstr ""
+
+#: wpc-force-sells.php:1589
+msgid "Under text"
+msgstr ""
+
+#: wpc-force-sells.php:2090
+msgid "Force sells"
+msgstr ""
+
+#: wpc-force-sells.php:2091
+msgid "With linked products"
+msgstr ""
+
+#: wpc-force-sells.php:2092
+msgid "Without linked products"
+msgstr ""
+
+#: wpc-force-sells.php:2137
+msgid "Before wrapper"
+msgstr ""
+
+#: wpc-force-sells.php:2138
+msgid "After wrapper"
+msgstr ""
+
+#: wpc-force-sells.php:2139
+msgid "Before products"
+msgstr ""
+
+#: wpc-force-sells.php:2140
+msgid "After products"
+msgstr ""
+
+#: wpc-force-sells.php:2141
+msgid "Before sub-product"
+msgstr ""
+
+#: wpc-force-sells.php:2142
+msgid "After sub-product"
+msgstr ""
+
+#: wpc-force-sells.php:2143
+msgid "Before sub-product thumbnail"
+msgstr ""
+
+#: wpc-force-sells.php:2144
+msgid "After sub-product thumbnail"
+msgstr ""
+
+#: wpc-force-sells.php:2145
+msgid "Before sub-product name"
+msgstr ""
+
+#: wpc-force-sells.php:2146
+msgid "After sub-product name"
+msgstr ""
+
+#: wpc-force-sells.php:2147
+msgid "Before sub-product price"
+msgstr ""
+
+#: wpc-force-sells.php:2148
+msgid "After sub-product price"
+msgstr ""
